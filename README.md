@@ -15,7 +15,10 @@ Welcome to my GitHub profile!
 
 Instagram: shash__2003
 
-LinkedIn: Shashwath (Shash) Sunkum
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/shashwath-sunkum"
 
 ## My Recent Work
 
