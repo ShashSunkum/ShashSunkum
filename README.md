@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 
 Instagram: shash__2003
 
-LinkedIn:[ //linkedin.com/in/shashwath-sunkum](https://www.linkedin.com/in/shashwath-sunkum-600128248/](https://www.linkedin.com/in/shashwath-sunkum-600128248/)
+LinkedIn: Shashwath (Shash) Sunkum
 
 ## My Recent Work
 
