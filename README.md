@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, I'm Shashwath(Shash) Sunkum 👋
 
-<!--
-**ShashSunkum/ShashSunkum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Project or Field of Work]
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on any interesting personal projects
+- 🤔 I’m looking for help with Trinity College's CS Club website creation
+- 📫 How to reach me: shashsunkum@gmail.com
+- ⚡ Fun fact: I am a huge Barcelona fan!
+
+## Connect with Me
+
+Instagram: shash__2003
+LinkedIn: Shashwath (Shash) Sunkum
+
+## My Recent Work
+
+- Simple Text Editor on Java
+- Interactive Contact Manager on Java
+- Trinity College CS Club website
+
+Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just have a chat about technology!
