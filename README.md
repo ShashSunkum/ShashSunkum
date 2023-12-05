@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- 🔭 I’m currently working on [Project or Field of Work]
+- 🔭 I’m currently working on Full-Stack website for the Trinity College CS Club
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on any interesting personal projects
 - 🤔 I’m looking for help with Trinity College's CS Club website creation
