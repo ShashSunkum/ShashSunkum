@@ -5,7 +5,7 @@
 
 **CS + Math person. Currently: MSc @ Aalto, Espoo 🇫🇮**
 
-*Building things at the intersection of AI, data, and real-world operations — when I'm not on a ski slope or a tennis court*
+*Building things at the intersection of AI, data, and real-world operations; when I'm not on a ski slope or a tennis court*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashwath-sunkum)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shashsunkum@gmail.com)
@@ -20,10 +20,10 @@
 shash = {
     "currently":    "MSc Computer Science @ Aalto University, Espoo 🇫🇮",
     "previously":   "CS + Math, Summa Cum Laude @ Trinity College, Hartford CT 🇺🇸",
-    "day_job":      "Building AI systems for supply chain @ NCS Partners",
+    "previous_job":      "Building AI systems for supply chain @ NCS Partners",
     "learning":     ["Finnish 🇫🇮", "Whatever book I picked up this week"],
     "looking_for":  "Summer 2027 internship in Finnish tech",
-    "fun_fact":     "My GPA was 4.06/4.00. Yes, that's possible. No, I don't know how.",
+    "fun_fact":     "I love harsh winters, don't know why haha",
 }
 ```
 
