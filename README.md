@@ -20,7 +20,7 @@
 shash = {
     "currently":    "MSc Computer Science @ Aalto University, Espoo 🇫🇮",
     "previously":   "CS + Math, Summa Cum Laude @ Trinity College, Hartford CT 🇺🇸",
-    "previous_job":      "Building AI systems for supply chain @ NCS Partners",
+    "previous_job": "Building AI systems for supply chain @ NCS Partners",
     "learning":     ["Finnish 🇫🇮", "Whatever book I picked up this week"],
     "looking_for":  "Summer 2027 internship in Finnish tech",
     "fun_fact":     "I love harsh winters, don't know why haha",
